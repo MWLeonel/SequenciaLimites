@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.exe
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.deps.json
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.runtimeconfig.json
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.runtimeconfig.dev.json
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.dll
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\bin\Debug\netcoreapp3.1\SequenciaLimites.pdb
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.AssemblyInfo.cs
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.dll
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.pdb
+C:\Users\Max\Desktop\SequenciaLimites\SequenciaLimites\obj\Debug\netcoreapp3.1\SequenciaLimites.genruntimeconfig.cache
